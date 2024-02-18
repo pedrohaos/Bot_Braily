@@ -1,0 +1,15 @@
+.container__resposta{
+    border: 2px solid #6d83f3;
+    border-radius: 8px;
+    padding: 24px;
+}
+
+.resposta{
+    display: block;
+    word-break: break-word;
+    font-size: 18px;
+    line-height: 24px;
+    font-family: "ProximaNova","Helvetica","Arial",sans-serif;
+    font-weight: 400;
+    color: #F00;
+}
